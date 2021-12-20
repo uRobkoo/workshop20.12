@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/uRobkoo/workshop2012/static/css/main.3755037e.css",
-    "main.js": "/uRobkoo/workshop2012/static/js/main.884329dd.js",
-    "static/js/787.aecc2408.chunk.js": "/uRobkoo/workshop2012/static/js/787.aecc2408.chunk.js",
-    "static/media/logo.svg": "/uRobkoo/workshop2012/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/uRobkoo/workshop2012/index.html",
-    "main.3755037e.css.map": "/uRobkoo/workshop2012/static/css/main.3755037e.css.map",
-    "main.884329dd.js.map": "/uRobkoo/workshop2012/static/js/main.884329dd.js.map",
-    "787.aecc2408.chunk.js.map": "/uRobkoo/workshop2012/static/js/787.aecc2408.chunk.js.map"
+    "main.css": "/workshop2012/static/css/main.3755037e.css",
+    "main.js": "/workshop2012/static/js/main.2c8e6283.js",
+    "static/js/787.aecc2408.chunk.js": "/workshop2012/static/js/787.aecc2408.chunk.js",
+    "static/media/logo.svg": "/workshop2012/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/workshop2012/index.html",
+    "main.3755037e.css.map": "/workshop2012/static/css/main.3755037e.css.map",
+    "main.2c8e6283.js.map": "/workshop2012/static/js/main.2c8e6283.js.map",
+    "787.aecc2408.chunk.js.map": "/workshop2012/static/js/787.aecc2408.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3755037e.css",
-    "static/js/main.884329dd.js"
+    "static/js/main.2c8e6283.js"
   ]
 }
